@@ -62,3 +62,7 @@ while len(fib_primes) < 11:
         fib_primes.append(fib_number)
 
 print(fib_primes)
+# output:
+# [2, 3, 5, 13]
+# [2, 3, 5, 13, 89, 233, 1597, 28657]
+# [2, 3, 5, 13, 89, 233, 1597, 28657, 514229, 433494437, 2971215073]
